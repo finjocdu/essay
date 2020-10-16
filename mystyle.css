@@ -12,7 +12,6 @@ body{background:#DDDDDD;}
  text-align: center;}
 h1 {font-size:2em;}
 h2 font-size:1.5em;}
-#footer{text-align: right;}
 figure,nav{
 display:block;
 margin:auto;
@@ -28,9 +27,8 @@ article{width:46%;
 footer{width:98%;
  margin: auto;
  padding:1em;
- border:.3em solid #cccccc;}
+ border:.3em solid #cccccc;clear:both;text-align: right;}
  .ref{ font-size:.8em;text-align:left;}
- footer {clear:both;}
 @media(max-width:600px) {float:none;}
 
 
