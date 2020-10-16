@@ -28,7 +28,7 @@ article{width:46%;
 footer{width:98%;
  margin: auto;
  padding:1em;
- border:.3em solid #cccccc;
+ border:.3em solid #cccccc;}
  .ref{ font-size:.8em;text-align:left;}
  clear:both;}
 @media(max-width:600px) {float:none;}
