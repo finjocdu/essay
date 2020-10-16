@@ -31,7 +31,7 @@ footer{width:98%;
  border:.3em solid #cccccc;}
  .ref{ font-size:.8em;text-align:left;}
  clear:both;}
-@media(max-width:600px) {float:none;}
+@media(max-width:600px) {float:right;}
 
 
 
