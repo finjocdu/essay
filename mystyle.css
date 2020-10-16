@@ -13,7 +13,7 @@ body{background:#DDDDDD;}
 h1 {font-size:2em;}
 h2 font-size:1.5em;}
 #footer{text-align: right;}
-.reference { font-size:.8em;text-align:left;}
+.ref { font-size:.8em;text-align:left;}
 figure,nav{
 display:block;
 margin:auto;
