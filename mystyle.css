@@ -1,10 +1,14 @@
 body{background:#8a8a8a;}
 #wrapper{
+ Height: 22px;
  background:#20b2aa;
  width:100%;
  margin: 0px;
  padding:1em;
-  border:.2em solid #cccccc;}
+  border:.1em solid #cccccc;}
+ color: #8a8a8a;
+ transition: color 0.5s;
+ text-decoration: none;
  p,h1,h2,a{
  font-family:Verdana;
  font-size:2em;
@@ -13,15 +17,18 @@ body{background:#8a8a8a;}
 h1 {font-size:2em;}
 h2 font-size:1.5em;}
 figure,nav{
-display:block;
+display:flex;
 margin:auto;
 width:200%;}
 .big{width:50%;}
 .middle{width:45%;}
 .small{width:30%;}
+.img-banner {
+ display: none;
+}
 article{width:56%;
  margin: auto;
- padding:1em;
+ padding:38px;
  border:.3em solid #111;
  float:right;}
 footer{width:98%;
