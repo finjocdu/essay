@@ -1,13 +1,13 @@
 body{background:#20b2aa;}
 #wrapper{
  background:#8a8a8a;
- width:98%;
+ width:100%;
  margin: 0px;
  padding:1em;
-  border:.3em solid #cccccc;}
+  border:.2em solid #cccccc;}
  p,h1,h2,a{
  font-family:Verdana;
- font-size:1em;
+ font-size:2em;
  font-weight:normal;
  text-align: center;}
 h1 {font-size:2em;}
@@ -15,11 +15,11 @@ h2 font-size:1.5em;}
 figure,nav{
 display:block;
 margin:auto;
-width:100%;}
+width:200%;}
 .big{width:50%;}
-.middle{width:35%;}
-.small{width:20%;}
-article{width:46%;
+.middle{width:45%;}
+.small{width:30%;}
+article{width:56%;
  margin: auto;
  padding:1em;
  border:.3em solid #111;
