@@ -1,8 +1,8 @@
-body{background:#DDDDDD;}
+body{background:#20b2aa;}
 #wrapper{
- background:#eeeeee;
+ background:#8a8a8a;
  width:98%;
- margin: auto;
+ margin: 0px;
  padding:1em;
   border:.3em solid #cccccc;}
  p,h1,h2,a{
@@ -15,19 +15,19 @@ h2 font-size:1.5em;}
 figure,nav{
 display:block;
 margin:auto;
-width:30%;}
+width:100%;}
 .big{width:50%;}
 .middle{width:35%;}
 .small{width:20%;}
 article{width:46%;
  margin: auto;
  padding:1em;
- border:.3em solid #cccccc;
+ border:.3em solid #111;
  float:right;}
 footer{width:98%;
  margin: auto;
  padding:1em;
- border:.3em solid #cccccc;clear:both;text-align: right;}
+ border:.3em solid #111;clear:both;text-align: right;}
  .ref{ font-size:.8em;text-align:left;}
 @media(max-width:600px) {float:none;}
 
