@@ -1,7 +1,7 @@
-body{background: #8a8a8a;}
+body{background: #20b2aa}
 #wrapper{
  Height: 22px;
- background: #20b2aa;
+ background: 8a8a8a;}
  width:100%;
  margin: 0px;
  padding:1em;
@@ -47,10 +47,10 @@ footer{width:98%;
 
 
 /*{word-break:break-all}
-body {background-color: #20b2aa;}
+body {background-color:#F0F8FF}
 header {color:#ffff00; text-align:center;font-size:6em}
 p, quote{color:#ff0000; text-align:left;font-size:2em;overflow-wrap:break-word}
-figure {float:left; height:60%;width:40%;padding:.6em;border:1em; margin:1em;border-color:#8a8a8a; ;}
+figure {float:left; height:60%;width:40%;padding:.6em;border:1em; margin:1em;border-color:#F8F8FF;}
 
 a {color:#20b2aa; text-align:left; font-size:2em}
 article  {float:left;background-color:#007777; border:.5em solid #ffffff; width:60%; height:25%; padding: 0em; margin:.5em;}
