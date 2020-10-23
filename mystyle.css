@@ -47,10 +47,10 @@ footer{width:98%;
 
 
 /*{word-break:break-all}
-body {background-color:#007777}
+body {background-color: #20b2aa;}
 header {color:#ffff00; text-align:center;font-size:6em}
 p, quote{color:#ff0000; text-align:left;font-size:2em;overflow-wrap:break-word}
-figure {float:left; height:60%;width:40%;padding:.6em;border:1em; margin:1em;border-color: #ffffff}
+figure {float:left; height:60%;width:40%;padding:.6em;border:1em; margin:1em;border-color: #ffffff;}
 
 a {color:#20b2aa; text-align:left; font-size:2em}
 article  {float:left;background-color:#007777; border:.5em solid #ffffff; width:60%; height:25%; padding: 0em; margin:.5em;}
